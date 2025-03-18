@@ -43,3 +43,16 @@ The primary sale of *.ton domains happens via a decentralized open auction at ht
 The domain owner can make subdomains by setting the address of the smart contract responsible for resolving subdomains in the DNS record `sha256("dns_next_resolver")`.
 
 It can be any smart contract that implements the DNS standard.
+
+### dotTON Platform: Advanced Subdomain Management and Monetization
+
+[dotTON](https://t.me/dotTONbot) emerges as the leading platform on the TON blockchain, offering sophisticated subdomain management and monetization capabilities. Notably, it is the sole platform on TON that provides these comprehensive solutions.
+
+**Key Features:**
+
+* **Simplified Subdomain Creation and Management:**
+    * dotTON streamlines the process of creating and managing subdomains, abstracting away the complexities of DNS record manipulation.
+    * Provides tools for easy management of subdomain DNS records.
+* **Subdomain Subscription Monetization:**
+    * dotTON pioneers a unique approach to monetizing subdomains through subscription-based models.
+    * Domain owners gain the ability to define subscription durations, pricing structures, and access permissions for their subdomains.
